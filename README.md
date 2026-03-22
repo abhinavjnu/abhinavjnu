@@ -1,10 +1,10 @@
-# Hi, I'm Abhinav Kumar
+# Abhinav Kumar
 
-I am a researcher working on **platform labour, digital political economy, and the future of work in India**.
+**Researcher in platform labour, digital political economy, and the future of work in India.**
 
-I completed my **PhD in Economics from Jawaharlal Nehru University (JNU)**, where my doctoral research examined **food delivery platforms, algorithmic management, labour control, and worker resistance** through a study of Zomato workers in Delhi.
+I work at the intersection of **digital platforms, labour, technology, and public policy**. My research examines how platforms reorganize work, shape urban service infrastructures, govern workers through algorithmic systems, and transform labour relations in the Global South.
 
-I am currently working as a **Research Associate at Christ (Deemed to be University), Delhi NCR**, on an **ICSSR-funded project** on the sustainability of digital jobs and youth livelihoods in the gig-platform economy.
+I completed my **PhD in Economics from Jawaharlal Nehru University (JNU)**, where my doctoral research studied **Zomato delivery workers in Delhi** through fieldwork, survey evidence, digital ethnography, and labour process analysis. I am currently a **Research Associate at Christ (Deemed to be University), Delhi NCR**, working on an **ICSSR-funded project** on the sustainability of digital jobs and youth livelihoods in the gig-platform economy.
 
 ## What I work on
 
@@ -12,39 +12,37 @@ I am currently working as a **Research Associate at Christ (Deemed to be Univers
 - Gig work, algorithmic management, and labour precarity
 - Worker resistance, unions, and collective organisation
 - Political economy of technology
-- Urban transformation through platformised services
+- Urban transformation through platformized services
 - Community-governed and non-extractive digital alternatives
+- AI, labour, and the future of work
 
-## What you'll find here
+## What I do here
 
-This GitHub account is where I keep:
+This GitHub is part research lab, part writing infrastructure, part workflow system.
 
-- research infrastructure and workflow tools
-- writing and website code
-- automation experiments for research and publishing
-- projects related to platform studies, labour, and digital systems
+Here you’ll find:
+
+- website and publishing code
+- research automation and data workflows
+- tools that support academic writing and knowledge creation
+- experiments related to platform studies, labour, and digital systems
+- public-interest technical projects connected to labour and digital alternatives
 
 ## Current directions
 
 - Converting my PhD thesis into journal articles
 - Building public writing on labour, AI, and platform economies
-- Developing research and data workflows for credible knowledge creation
-- Exploring platform alternatives such as cooperative digital market systems
+- Developing research infrastructure for credible knowledge creation
+- Exploring cooperative and community-governed alternatives to extractive platforms
 
 ## Selected links
 
 - **Website:** [abhinavkumar.works](https://abhinavkumar.works)
 - **Blog:** [abhinavkumar.works/blog](https://abhinavkumar.works/blog)
-- **GitHub Pages site:** [abhinavkumar.works](https://abhinavkumar.works)
+- **GitHub site:** [abhinavkumar.works](https://abhinavkumar.works)
 
-## Research profile
+## Why this profile exists
 
-My work combines:
+I’m interested not only in studying platform systems, but in building the workflows, tools, and public-facing outputs that make research more rigorous, visible, and actionable.
 
-- field-based research
-- digital ethnography
-- survey design and primary data collection
-- quantitative and qualitative analysis
-- policy-facing and public writing
-
-If you are interested in collaboration on **platform labour, gig work, labour policy, digital political economy, or research infrastructure**, feel free to reach out.
+If you work on **platform labour, gig work, labour policy, digital political economy, public-interest research infrastructure, or AI and work**, feel free to connect.
